@@ -1,4 +1,4 @@
-# FlappyBird-JS
+# FlappyBird-Project
 
 Repositório do projeto do **Definitely Not Flappy Bird**. Designado à uma web-application desenvolvida na forma de Single Page Aplication buildada utilizando JavaScript, HTML e CSS. Referente ao CSS foi utilizado as instruções provenientes da propriedade *flexbox* para estilizar o ambiente. 
 
